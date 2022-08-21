@@ -1,0 +1,953 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/108/trunk/CoreFoundation
+END
+CFStringUtilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringUtilities.c
+END
+CONTRIBUTORS
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CONTRIBUTORS
+END
+CFDictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/CFDictionary.c
+END
+CFDateFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFDateFormatter.h
+END
+CFUnicodeData-B.mapping
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUnicodeData-B.mapping
+END
+configure.ac
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/configure.ac
+END
+CFXMLPreferencesDomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLPreferencesDomain.c
+END
+CFBase.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBase.c
+END
+CFDictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/CFDictionary.h
+END
+CoreFoundation.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/CoreFoundation.h
+END
+CFNumberFormatter.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFNumberFormatter.c
+END
+CFPlugIn_PlugIn.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugIn_PlugIn.c
+END
+CFMachPort.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFMachPort.c
+END
+CFBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/30/trunk/CoreFoundation/CFBase.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/Makefile.am
+END
+CFPropertyList.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPropertyList.c
+END
+CFNumberFormatter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFNumberFormatter.h
+END
+CFMachPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFMachPort.h
+END
+CFUnicodeData-L.mapping
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUnicodeData-L.mapping
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/73/trunk/CoreFoundation/Makefile
+END
+CFUnicodeDecomposition.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUnicodeDecomposition.c
+END
+CFURLAccess.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFURLAccess.c
+END
+CFPropertyList.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPropertyList.h
+END
+CFUnicodeDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUnicodeDecomposition.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/Makefile.in
+END
+CFURLAccess.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFURLAccess.h
+END
+CFBag.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBag.c
+END
+CFError.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/CoreFoundation/CFError.c
+END
+CFStreamInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStreamInternal.h
+END
+CFBag.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBag.h
+END
+CFError.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/CoreFoundation/CFError.h
+END
+CFBitVector.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBitVector.c
+END
+CFURL.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/107/trunk/CoreFoundation/CFURL.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/trunk/CoreFoundation/README
+END
+CFSocketStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/CFSocketStream.c
+END
+CFStorage.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStorage.c
+END
+CFStringEncodingConverter.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringEncodingConverter.c
+END
+CFBitVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBitVector.h
+END
+CFBundle_BinaryTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBundle_BinaryTypes.h
+END
+CFURL.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/CFURL.h
+END
+CFStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStorage.h
+END
+APPLE_LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/APPLE_LICENSE
+END
+CFStringEncodingConverter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringEncodingConverter.h
+END
+CFStringScanner.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringScanner.c
+END
+CFBuiltinConverters.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBuiltinConverters.c
+END
+CFVersion.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFVersion.c
+END
+CFRunLoop.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/107/trunk/CoreFoundation/CFRunLoop.c
+END
+CFPlugIn.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugIn.c
+END
+CFBinaryPList.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBinaryPList.c
+END
+CFConcreteStreams.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFConcreteStreams.c
+END
+CFRunLoop.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFRunLoop.h
+END
+CFPlugIn.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugIn.h
+END
+CFRunLoopPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFRunLoopPriv.h
+END
+CFString.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFString.c
+END
+NSSystemDirectories.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/108/trunk/CoreFoundation/NSSystemDirectories.c
+END
+CFString.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFString.h
+END
+CFUtilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/107/trunk/CoreFoundation/CFUtilities.c
+END
+NSSystemDirectories.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/108/trunk/CoreFoundation/NSSystemDirectories.h
+END
+CFBundlePriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBundlePriv.h
+END
+CFSortFunctions.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFSortFunctions.c
+END
+CFNumber.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFNumber.c
+END
+CFUniChar.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/107/trunk/CoreFoundation/CFUniChar.c
+END
+BuildCFLite
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/BuildCFLite
+END
+CFNumber.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFNumber.h
+END
+CFUniChar.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUniChar.h
+END
+CFStringEncodings.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringEncodings.c
+END
+CFStreamPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStreamPriv.h
+END
+CFBundle_Resources.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBundle_Resources.c
+END
+CFStringEncodingExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringEncodingExt.h
+END
+CFByteOrder.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFByteOrder.h
+END
+CFWindowsMessageQueue.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/CoreFoundation/CFWindowsMessageQueue.c
+END
+CFWindowsMessageQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/21/trunk/CoreFoundation/CFWindowsMessageQueue.h
+END
+CFUniCharPropertyDatabase.data
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUniCharPropertyDatabase.data
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/INSTALL
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/CHANGES
+END
+CFXMLTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLTree.c
+END
+CFUnicodePrecomposition.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUnicodePrecomposition.c
+END
+CFBinaryHeap.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBinaryHeap.c
+END
+CFApplicationPreferences.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/21/trunk/CoreFoundation/CFApplicationPreferences.c
+END
+CFPlugIn_Factory.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugIn_Factory.c
+END
+CFUnicodePrecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUnicodePrecomposition.h
+END
+CFBinaryHeap.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBinaryHeap.h
+END
+CFTimeZone.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFTimeZone.c
+END
+CFPlugIn_Factory.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugIn_Factory.h
+END
+config.log
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/73/trunk/CoreFoundation/config.log
+END
+CFSet.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/CFSet.c
+END
+CFXMLInputStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLInputStream.c
+END
+CFTimeZone.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFTimeZone.h
+END
+CFSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/CFSet.h
+END
+CFXMLInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLInputStream.h
+END
+CFPreferences.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPreferences.c
+END
+CFLocaleIdentifier.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/CFLocaleIdentifier.c
+END
+CFPreferences.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPreferences.h
+END
+CFArray.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/CoreFoundation/CFArray.c
+END
+CFLogUtilities.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/CFLogUtilities.h
+END
+CFArray.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/CoreFoundation/CFArray.h
+END
+auto_stubs.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/auto_stubs.h
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/21/trunk/CoreFoundation/configure
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/Info.plist
+END
+CFStringEncodingConverterExt.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringEncodingConverterExt.h
+END
+CFTree.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFTree.c
+END
+CFLocale.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFLocale.c
+END
+CFPlugInCOM.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugInCOM.h
+END
+CFLocale.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFLocale.h
+END
+CFTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFTree.h
+END
+CFUUID.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUUID.c
+END
+CFData.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFData.c
+END
+CFStringEncodingConverterPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringEncodingConverterPriv.h
+END
+CFUUID.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUUID.h
+END
+CFDate.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/107/trunk/CoreFoundation/CFDate.c
+END
+CFData.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFData.h
+END
+CFInternal.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/104/trunk/CoreFoundation/CFInternal.h
+END
+CFPlugIn_Instance.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlugIn_Instance.c
+END
+CFDate.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFDate.h
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/aclocal.m4
+END
+CFStreamAbstract.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStreamAbstract.h
+END
+CFUserNotification.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUserNotification.c
+END
+CFNotificationCenter.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/107/trunk/CoreFoundation/CFNotificationCenter.c
+END
+CFError_Private.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFError_Private.h
+END
+CFUserNotification.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUserNotification.h
+END
+CoreFoundation.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/CoreFoundation.pc.in
+END
+CFNotificationCenter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/CFNotificationCenter.h
+END
+CFLite-ce.sln
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFLite-ce.sln
+END
+CFXMLNode.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLNode.c
+END
+CFBundle.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/94/trunk/CoreFoundation/CFBundle.c
+END
+CFCalendar.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFCalendar.c
+END
+CFXMLNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLNode.h
+END
+ForFoundationOnly.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/36/trunk/CoreFoundation/ForFoundationOnly.h
+END
+CFFileUtilities.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFFileUtilities.c
+END
+CFXMLParser.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLParser.c
+END
+CFFileDescriptor.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFFileDescriptor.c
+END
+CFBundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBundle.h
+END
+CFCalendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFCalendar.h
+END
+CFSystemDirectories.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/104/trunk/CoreFoundation/CFSystemDirectories.c
+END
+CFXMLParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/trunk/CoreFoundation/CFXMLParser.h
+END
+CFFileDescriptor.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/CFFileDescriptor.h
+END
+CFRuntime.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFRuntime.c
+END
+CFPlatform.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPlatform.c
+END
+BuildCFLite.windows
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/BuildCFLite.windows
+END
+CFStringDefaultEncoding.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStringDefaultEncoding.h
+END
+CFRuntime.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/CFRuntime.h
+END
+CFStream.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStream.c
+END
+CFUniCharPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFUniCharPriv.h
+END
+CFStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFStream.h
+END
+CFLite.sln
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFLite.sln
+END
+CFCharacterSet.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/107/trunk/CoreFoundation/CFCharacterSet.c
+END
+CFBundle_Internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/CFBundle_Internal.h
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/21/trunk/CoreFoundation/TODO
+END
+CFCharacterSet.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/21/trunk/CoreFoundation/CFCharacterSet.h
+END
+CFCharacterSetPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/CFCharacterSetPriv.h
+END
+CFCharacterSetBitmaps.bitmap
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/21/trunk/CoreFoundation/CFCharacterSetBitmaps.bitmap
+END
+CFPriv.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/21/trunk/CoreFoundation/CFPriv.h
+END
+CFSocket.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/107/trunk/CoreFoundation/CFSocket.c
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/21/trunk/CoreFoundation/LICENSE
+END
+CFMessagePort.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFMessagePort.c
+END
+CFSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/21/trunk/CoreFoundation/CFSocket.h
+END
+CFMessagePort.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/trunk/CoreFoundation/CFMessagePort.h
+END
+CFDateFormatter.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/CFDateFormatter.c
+END

@@ -1,0 +1,761 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode
+END
+locid.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/locid.h
+END
+usearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/usearch.h
+END
+unifunct.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unifunct.h
+END
+tblcoll.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/tblcoll.h
+END
+ubidi.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ubidi.h
+END
+ucat.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucat.h
+END
+msgfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/msgfmt.h
+END
+udat.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/udat.h
+END
+smpdtfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/smpdtfmt.h
+END
+uregex.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uregex.h
+END
+uloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uloc.h
+END
+resbund.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/resbund.h
+END
+normlzr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/normlzr.h
+END
+utf16.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utf16.h
+END
+tztrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/tztrans.h
+END
+simpletz.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/simpletz.h
+END
+uclean.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uclean.h
+END
+uniset.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uniset.h
+END
+fmtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/fmtable.h
+END
+umsg.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/umsg.h
+END
+urep.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/urep.h
+END
+ppalmos.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ppalmos.h
+END
+utmscale.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utmscale.h
+END
+umisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/umisc.h
+END
+uset.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uset.h
+END
+uobslete.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uobslete.h
+END
+parseerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/parseerr.h
+END
+schriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/schriter.h
+END
+utrace.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utrace.h
+END
+ucoleitr.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucoleitr.h
+END
+rep.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/rep.h
+END
+dtitvinf.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dtitvinf.h
+END
+uiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uiter.h
+END
+uscript.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uscript.h
+END
+timezone.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/timezone.h
+END
+uconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uconfig.h
+END
+choicfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/choicfmt.h
+END
+basictz.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/basictz.h
+END
+dtrule.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dtrule.h
+END
+uidna.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uidna.h
+END
+coleitr.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/coleitr.h
+END
+ubrk.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ubrk.h
+END
+fieldpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/fieldpos.h
+END
+search.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/search.h
+END
+urbtok.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/urbtok.h
+END
+numfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/numfmt.h
+END
+unimatch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unimatch.h
+END
+utext.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utext.h
+END
+plurrule.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/plurrule.h
+END
+docmain.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/docmain.h
+END
+unifilt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unifilt.h
+END
+stsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/stsearch.h
+END
+rbbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/rbbi.h
+END
+unirepl.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unirepl.h
+END
+usprep.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/usprep.h
+END
+pwin32.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/pwin32.h
+END
+ucnv_err.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucnv_err.h
+END
+datefmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/datefmt.h
+END
+unistr.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unistr.h
+END
+caniter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/caniter.h
+END
+tzrule.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/tzrule.h
+END
+vtzone.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/vtzone.h
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utf8.h
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/format.h
+END
+dtintrv.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dtintrv.h
+END
+parsepos.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/parsepos.h
+END
+uintrnal.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uintrnal.h
+END
+measfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/measfmt.h
+END
+urename.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/urename.h
+END
+utf_old.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utf_old.h
+END
+strenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/strenum.h
+END
+utf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utf.h
+END
+udata.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/udata.h
+END
+sortkey.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/sortkey.h
+END
+ucurr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucurr.h
+END
+dtitvfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dtitvfmt.h
+END
+ucol.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucol.h
+END
+uchar.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uchar.h
+END
+utf32.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utf32.h
+END
+usetiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/usetiter.h
+END
+calendar.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/calendar.h
+END
+uversion.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uversion.h
+END
+regex.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/regex.h
+END
+utrans.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utrans.h
+END
+ures.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ures.h
+END
+ucnv_cb.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucnv_cb.h
+END
+symtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/symtable.h
+END
+rbtz.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/rbtz.h
+END
+dtptngen.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dtptngen.h
+END
+gregocal.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/gregocal.h
+END
+udatpg.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/udatpg.h
+END
+platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/platform.h
+END
+unum.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unum.h
+END
+uchriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uchriter.h
+END
+dcfmtsym.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dcfmtsym.h
+END
+plurfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/plurfmt.h
+END
+uenum.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uenum.h
+END
+utypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/utypes.h
+END
+umachine.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/umachine.h
+END
+coll.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/coll.h
+END
+uobject.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/uobject.h
+END
+ustring.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ustring.h
+END
+ulocdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ulocdata.h
+END
+putil.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/putil.h
+END
+ucasemap.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucasemap.h
+END
+unorm.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/unorm.h
+END
+dbbi.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dbbi.h
+END
+translit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/translit.h
+END
+measure.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/measure.h
+END
+chariter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/chariter.h
+END
+brkiter.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/brkiter.h
+END
+ustdio.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ustdio.h
+END
+dtfmtsym.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/dtfmtsym.h
+END
+usystem.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/usystem.h
+END
+udeprctd.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/udeprctd.h
+END
+currunit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/currunit.h
+END
+ucnv.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucnv.h
+END
+curramt.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/curramt.h
+END
+ustream.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ustream.h
+END
+ucal.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucal.h
+END
+ushape.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ushape.h
+END
+udraft.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/udraft.h
+END
+measunit.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/measunit.h
+END
+ucsdet.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/ucsdet.h
+END
+rbnf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/rbnf.h
+END
+decimfmt.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/21/trunk/CoreFoundation/icu/unicode/decimfmt.h
+END
